@@ -1,10 +1,10 @@
-condicao = True
+# condicao = True
 
-if condicao == True:
-    print("Faz parte do IF")
-    #  print("Identacao esquisita") # perceba que este codigo possui uma identacao errada, fugindo dos 4 espacos
+# if condicao == True:
+#     print("Faz parte do IF")
+#     #  print("Identacao esquisita") # perceba que este codigo possui uma identacao errada, fugindo dos 4 espacos
 
-print('Fora do IF')
+# print('Fora do IF')
 
 
 
